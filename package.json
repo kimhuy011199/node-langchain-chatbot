@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "dev": "tsx watch src/index.ts",
-    "build": "tsc"
+    "build": "tsc",
+    "train:dev": "tsx src/training/index.ts",
+    "train": "npm run build && node ./dist/training/index.js"
   },
   "keywords": [],
   "author": "",
