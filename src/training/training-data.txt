@@ -1,0 +1,110 @@
+Supremetech Company - Build the next world-class product together
+
+SupremeTech is a product-based development company. We believe that technology has the power to provide unlimited value to the world. As the world is changing day by day, new product ideas and business opportunities will emerge at a faster pace. So let’s start today, build the next world-class product together.
+
+160+ Engineers based in Danang
+3+ Products on our own
+54+ Development projects
+140+ Globally-recognized Certifications
+
+HEADQUARTER
+Company name: SupremeTech Co.,Ltd
+Chairman: TRUONG DINH HOANG
+CEO: NGUYEN THAI BINH
+CTO: NGUYEN VAN DAO
+VICE PRESIDENT: MASATO UEKI
+Address: 2F Ricco building, 363 Nguyen Huu Tho, Cam Le Dist., Da Nang, Viet Nam
+Phone number: (+84) 236-3626-989
+Mail address: info@supremetech.vn
+
+Japan Sales Company
+Company name: Enlyt,Inc.
+Chairman: TRUONG DINH HOANG
+CEO: TOSHIHIKO KUBO
+Address: 3F Sakaue-building, 3-chome-27-15 Shibuya, Shibuya City, Tokyo
+
+COMPLIANCE & TRUST
+ISO / IEC 27001
+ISO/IEC 27001:2013 is an international standard for information security management systems (ISMS). We have been building our ISMS toward the standard since 2020 and received the certification in February 2022.
+Certificates CyberGRX
+
+CyberGRX
+The standardized evaluation provided us with an enterprise level assessment of our security including how our security posture maps to industry standards to add an extra level of guarantee for our customers. CyberGRX has reviewed our security policies and processes to complete a Tier 2 assessment which includes evidence validation.
+
+ISTQB® Partner
+ISTQB Certified Tester is a standardized qualification for software testers and the certification is offered by the ISTQB. Employees who will receive ISTQB® certification have independent and internationally-recognized validation of skills. We are honored to become the Silver Partner of ISTQB in 2022.
+Our software testers have achieved a total of 24 certifications, including:
+– Certified tester: 22 certifications
+– Agile tester: 2 certifications
+
+Professional Scrum certifications
+Scrum.org certification tests are globally recognized as tools to examine, enhance, and certify Professional Scrum knowledge. Tests are decoupled from training to validate people’s understanding whether learned in a Scrum.org class or in other ways.
+Our software engineers have achieved a total of 115 Scrum certifications, including:
+– Professional Scrum Master I: 47 certifications
+– Professional Scrum Master II: 17 certifications
+– Professional Scrum Product Owner I: 36 certifications
+– Professional Scrum Product Owner II: 8 certifications
+– Scaled Professional Scrum: 3 certifications
+– Professional Scrum Developer: 4 certifications
+
+WORKING ENVIRONMENT
+We seek for joy in every corner of our work because success follows those who enjoy working. SupremeTech members value continuous learnability in both work and life.
+Two of our main activities are the year-end party and the company trip. As you can see, we really enjoy it.
+We have compensation programs and rewards for those who take their time to learn and gain new knowledge after work.
+
+SERVICES
+- Product-focused software development services
+Supremetech is a professional product-focused software development company.
+We focus not only on developing software but also providing the best solutions based on your business goals and core values.
+We are providing many outsourcing models to suit your needs. Choosing the most fitting outsourcing model helps you get the software you need within your budget and deadlines.
+
+- Web & Mobile Application Development
+Web development:
+Using the latest technologies, we can help you build professional websites from scratch, maintenance or renew your existing websites.
+Professional websites that have beautiful UI with robust and secure backend logic can bring you to your business goals and success.
+Mobile development: 
+We develop Android apps, iOS apps, hybrid apps, and Cross-platform apps to bring your products close to your customers as much as possible.
+Our specialists in those fields help you apply the latest features of the OS, the platform to your mobile apps which makes the best user experiences.
+
+PRODUCTS
+Miahire - A Custom Video Interview Software For Businesses
+Online interviews that aren't face-to-face are now possible because to AI technology. You can conduct high-quality personnel evaluations by video interview regardless of location or time, starting with identity verification via ID.
+
+Luna - An end-to-end OTT streaming solution
+It is a next-generation Saas that realizes DX in the TV industry and creates new value and profits with a one-stop system that can create video channels, distribute advertising videos, live videos.
+
+Today.ly - A Custom Virtual Office Software for Businesses
+SaaS-based virtual office that accommodates new work patterns in the era of remote work. It reproduces all of the office equipment, from the desk to the conference room and whiteboard.
+
+Castdice - An AI-Based English Learning Software for Students
+Castdice collects all the vocabulary from large public test datasets using data mining and computer vision technology. In the mobile apps, users can browse, create different word books targeting various universities.
+
+PARTNERS
+These are excellent collaborators. We work together to create high-quality software with lasting value:
+- Enlyt, Inc.
+Enlyt is a startup company specializes in business digitalization and product development. Enlyt is founded in 2020 by SupremeTech's chairman Truong Dinh Hoang.
+- Classmethod, Inc.
+A tech company that supports corporate digitalization through cloud infrastructure consulting and in-house development support.
+
+TECHNOLOGY STACK
+We're using various technologies to create the best product for your business.
+- Mobile and Web: Swift, Java, React, Angular, VueJS, Flutter, Golang, ...
+- Server-side: PHP, Laravel, Go, Python, PostgreSQL, MySQL, MongoDB, ...
+- Infrastructure: GCP, AWS, ECS, Kubernetes, Docker, Serverless, ...
+
+CAREER
+Benefit:
+- 13th month pay (yearly bonus)
+- Bonus on National Public Days
+- Annual leave: 12 days 
+- PTI Health Insurance
+- Salary review: twice a year
+- Promotion opportunity
+- Yearly company trip, Year-end party
+- Training Incentive Program, Team building Allowances
+- Macbook is provided
+
+RESEARCH: Bring AI from research papers to products
+- Pose estimation and analysis: Pose estimation can be used in many applications in various fields such as posture correction, activity recognition in real-time sport event, robot training, game and animation production. We have trained popular pose estimation model and optimize them to use in IoT devices.
+- AI based remote proctoring: Along with the emerging trend of digitalization, education industry also adjust its activities to fit with the remote setting. We have been researching ways to support online exam proctoring using AI technology such as face recognition, eye tracking, head pose detection, etc. We are looking forward to applying these features into your online testing system, learning management system, online interview, and so on.
+- Realtime Face AR on mobile device: Face AR is no longer a secret technology that only big tech companies like Snapchat, Facebook can use. Our research in realtime video processing enables us to implement AR effect on realtime video call that run on mobile device. These features are ready to implement into video conference application, virtual try-on for E-commerce site and more.
