@@ -4,6 +4,7 @@ import HttpStatusCode from '../shared/enums/HttpStatus';
 declare global {
   interface Error {
     statusCode: number;
+    status: number;
   }
 }
 
@@ -13,8 +14,8 @@ const errorMiddleware = (
   res: Response,
   next: NextFunction
 ) => {
-  console.log('a');
-  const statusCode = err.statusCode || HttpStatusCode.INTERNAL_SERVER_ERROR;
+  const statusCode =
+    err?.statusCode || err?.status || HttpStatusCode.INTERNAL_SERVER_ERROR;
   const message = err.message || '';
   console.log(err.stack);
 
