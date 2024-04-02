@@ -59,13 +59,21 @@ const chat = async (body: ChatInputInterface) => {
     answerChain,
   ]);
 
-  // Invoke chain to get answer
-  const answer = await chain.invoke({
+  // Invoke chain to get the raw answer
+  // const answer = await chain.invoke({
+  //   question: body.question,
+  //   conversation_history: formatConversationHistory(body.history),
+  // });
+
+  // return answer;
+
+  // Stream the answer
+  const stream = await chain.stream({
     question: body.question,
     conversation_history: formatConversationHistory(body.history),
   });
 
-  return answer;
+  return stream;
 };
 
 const chatService = {
