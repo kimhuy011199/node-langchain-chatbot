@@ -26,6 +26,8 @@ Training has the following steps:
 
 3. Pass the question, relevant documents and chat history to the model to generate and stream the final answer.
 
+![Question-answering flow](./question-answering-flow.png)
+
 ## Running App Locally
 
 1. Clone the repository:
