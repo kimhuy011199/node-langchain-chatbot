@@ -19,7 +19,9 @@ const chat = async (body: ChatInputInterface) => {
   const retriever = await getRetriever();
 
   // Create LLM instance
-  const llm = new ChatOpenAI();
+  const llm = new ChatOpenAI({
+    temperature: 0.1,
+  });
 
   // Create standalone question prompt template
   const standaloneQuestionPrompt = PromptTemplate.fromTemplate(
