@@ -1,4 +1,8 @@
-# ChatLangChain Express Application
+# ChatLangChain 🦜️🔗 Express Application
+
+This repo is an implementation of a locally hosted chatbot specifically focused on question answering my profile. Built with LangChain, and Node.js.
+
+> Looking for the client React app? Click [here](https://github.com/kimhuy011199/react-langchain-chat-bot)
 
 ## Technical Description
 
@@ -16,6 +20,12 @@ Training has the following steps:
 
 ### Question-answering
 
+1. Given the chat history and question, determine what a standalone question would be using GPT-3.5.
+
+2. Given that standalone question, look up relevant documents from the vectorstore.
+
+3. Pass the question, relevant documents and chat history to the model to generate and stream the final answer.
+
 ## Running App Locally
 
 1. Clone the repository:
@@ -30,7 +40,7 @@ git clone https://github.com/kimhuy011199/node-langchain-chatbot
 npm install
 ```
 
-3. Set the required environment variables listed inside `.env.sample` file.
+3. Create `.env` file and set the required environment variables listed inside `.env.sample` file.
 
 4. Set your data to `src/training/training-data.txt` file.
 
@@ -46,4 +56,4 @@ npm run train:dev
 npm run dev
 ```
 
-## Related Documents
+7. Using [client app](https://github.com/kimhuy011199/react-langchain-chat-bot) to chat with AI
